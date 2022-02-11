@@ -1,5 +1,7 @@
 # udemy_course_querier
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/de8d06ab-1e41-49c1-8b36-3c02f62332ce/deploy-status)](https://app.netlify.com/sites/ta-udemy-course-querier/deploys)
+
 A new Flutter project.
 
 ## Getting Started
